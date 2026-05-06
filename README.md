@@ -10,23 +10,28 @@
 
 #### ☁️ Infrastructure and Cloud
 
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=for-the-badge)
-![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=for-the-badge)
+![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=fff&style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-F0621F?logo=splunk&logoColor=fff&style=for-the-badge)
 
 #### 🧩 Scripting, configuration, automation and markup
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
-![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge)
-![Oh My Posh](https://img.shields.io/badge/Oh%20My%20Posh-FFD700?logo=hyper&logoColor=000&style=for-the-badge)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+![Oh My Posh](https://img.shields.io/badge/Oh%20My%20Posh-FFD700?logo=hyper&logoColor=000&style=for-the-badge)
 
 #### 👨🏻‍💻 Development
 
@@ -44,24 +49,21 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,htmx,regex,git,github,azure,kubernetes,powershell,bash,linux,windows,apple,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,htmx,regex,git,kubernetes,bash,linux,powershell,windows,apple,notion)](https://skillicons.dev)
 
 ---
 
 ### 💻 My favorite things to work with
 
-- **Cloud:** Microsoft Azure
-- **Containers and Orchestration:** Kubernetes, Helm
-- **CI/CD:** Azure DevOps pipelines (YAML)  
-- **Automation:** Bash, PowerShell  
-- **Monitoring and Observability:** Dynatrace
+- **Containers and orchestration:** Kubernetes, Helm
+- **CI/CD:** YAML pipelines
+- **Scripting:** Bash
 
 ---
 
 ### ⚙️ What I'm working on
 
-- Optimizing **CI/CD automation** in Azure DevOps  
-- Provisioning and maintaining **Microsoft Azure** resources
+- Optimizing **CI/CD automation** in GitLab and Jenkins  
 - Managing **Kubernetes clusters** and Helm charts
 
 ---
