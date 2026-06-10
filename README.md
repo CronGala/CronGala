@@ -19,6 +19,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
+![kgateway](https://custom-icon-badges.demolab.com/badge/-kgateway-5044e9?style=for-the-badge&logo=kgateway&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=fff&style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-F0621F?logo=splunk&logoColor=fff&style=for-the-badge)
@@ -30,7 +31,6 @@
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![Oh My Posh](https://img.shields.io/badge/Oh%20My%20Posh-FFD700?logo=hyper&logoColor=000&style=for-the-badge)
 
 #### 👨🏻‍💻 Development
@@ -63,7 +63,7 @@
 
 ### ⚙️ What I'm working on
 
-- Optimizing **CI/CD automation** in GitLab and Jenkins  
+- Optimizing **CI/CD automation** in GitLab  
 - Managing **Kubernetes clusters** and Helm charts
 
 ---
