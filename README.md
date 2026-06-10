@@ -21,6 +21,8 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 ![kgateway](https://custom-icon-badges.demolab.com/badge/-kgateway-5044e9?style=for-the-badge&logo=kgateway&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=fff&style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-F0621F?logo=splunk&logoColor=fff&style=for-the-badge)
 
