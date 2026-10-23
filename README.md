@@ -20,6 +20,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 ![kgateway](https://custom-icon-badges.demolab.com/badge/-kgateway-5044e9?style=for-the-badge&logo=kgateway&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge)
@@ -34,10 +35,12 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
 ![Oh My Posh](https://img.shields.io/badge/Oh%20My%20Posh-FFD700?logo=hyper&logoColor=000&style=for-the-badge)
+![chezmoi](https://custom-icon-badges.demolab.com/badge/chezmoi-000?logo=chezmoi&logoColor=white&style=for-the-badge)
 
 #### 👨🏻‍💻 Development
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078D7?logo=vsc&logoColor=white&style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claude&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196?logo=conventionalcommits&logoColor=fff&style=for-the-badge)
@@ -48,6 +51,7 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![CachyOS](https://img.shields.io/badge/CachyOS-66cccc?logo=cachyos&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -67,12 +71,15 @@
 
 - Optimizing **CI/CD automation** in GitLab  
 - Managing **Kubernetes clusters** and Helm charts
+- Implementing the **Kubernetes Gateway API** using **kgateway** across the clusters I manage
+- Building a declarative, reproducible machine setup, by managing dotfiles with **chezmoi**, and packages with Homebrew (macOS/Linux) and WinGet (Windows), all version-controlled
 
 ---
 
 ### 📚 Currently learning
 
 - Exploring **declarative approach** on DevOps practices
+- Using **Ansible** to automate DevOps projects, generating CI/CD pipelines, configuration files, and Helm values from a single infrastructure configuration file
 - Experimenting on **Strudel** - a live-coding language for algorithmic music composition
 
 ---
